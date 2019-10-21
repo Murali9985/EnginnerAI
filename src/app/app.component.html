@@ -1,0 +1,50 @@
+<div class="col-6" style="padding: 30px;">
+<input class="form-control" [(ngModel)]="searchByTitle" placeholder="Search By Title">
+</div>
+
+<div class="jumbotron mx-auto">
+  <table class="table table-responsive table-borderd table-tile">
+    <thead>
+      <th>Title</th>
+      <th>URL</th>
+      <th>Created_At</th>
+      <th>Author</th>
+    </thead>
+    <tbody>
+      <tr *ngFor="let display of dataToDisplayTo | search: searchByTitle ;let i=index" (click)="selectToShow(i,display)" data-toggle="modal" data-target="#myModal" [class.active]="i==selectedIndex">
+        <td>{{display.title}}</td>
+        <td>{{display.url}}</td>
+        <td>{{display.created_at|date:'EEEE h:mm:ss' }}</td>
+        <td>{{display.author}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+
+<div class="modal" id="myModal">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content ">
+      
+        <!-- Modal Header -->
+        <div class="modal-header">
+          <h4 class="modal-title">Data</h4>
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        
+        <!-- Modal body -->
+        <div class="modal-body">
+          <pre>{{authorData|json}}</pre>
+        </div>
+        
+        <!-- Modal footer -->
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger" data-dismiss="modal" >Close</button>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
+<router-outlet></router-outlet>

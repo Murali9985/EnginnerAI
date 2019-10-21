@@ -1,0 +1,371 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "created_at": "2019-10-21T09:22:35.000Z",
+      "title": "The Great Computer Experiment: Ruby Edition",
+      "url": "https://chodounsky.net/2019/10/21/the-great-computer-experiment-ruby-edition/",
+      "author": "jakubgarfield",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571649755,
+      "_tags": [
+        "story",
+        "author_jakubgarfield",
+        "story_21310478"
+      ],
+      "objectID": "21310478",
+      "_highlightResult": {
+        "title": {
+          "value": "The Great Computer Experiment: Ruby Edition",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://chodounsky.net/2019/10/21/the-great-computer-experiment-ruby-edition/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "jakubgarfield",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 1
+    },
+    {
+      "created_at": "2019-10-21T09:14:55.000Z",
+      "title": "Inevitable Features of White Label Exchange Software That You Should Demand",
+      "url": "http://blog.espay.exchange/inevitable-features-white-label-exchange-software-demand/",
+      "author": "espayex",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571649295,
+      "_tags": [
+        "story",
+        "author_espayex",
+        "story_21310448"
+      ],
+      "objectID": "21310448",
+      "_highlightResult": {
+        "title": {
+          "value": "Inevitable Features of White Label Exchange Software That You Should Demand",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "http://blog.espay.exchange/inevitable-features-white-label-exchange-software-demand/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "espayex",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 2
+    },
+    {
+      "created_at": "2019-10-21T09:42:47.000Z",
+      "title": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+      "url": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+      "author": "mwanago",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571650967,
+      "_tags": [
+        "story",
+        "author_mwanago",
+        "story_21310542"
+      ],
+      "objectID": "21310542",
+      "_highlightResult": {
+        "title": {
+          "value": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mwanago",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 3
+    },
+    {
+      "created_at": "2019-10-21T09:44:54.000Z",
+      "title": "Role of Tools and ENV in Behavior, Why I Switched to Ubuntu/VSCode from Arch/Vim",
+      "url": "https://msvalina.org/2019/09/role-of-tools-and-environment-in-behavior-and-why-i-switched-to-ubuntu-vscode-from-arch-vim.html",
+      "author": "msvalina",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651094,
+      "_tags": [
+        "story",
+        "author_msvalina",
+        "story_21310550"
+      ],
+      "objectID": "21310550",
+      "_highlightResult": {
+        "title": {
+          "value": "Role of Tools and ENV in Behavior, Why I Switched to Ubuntu/VSCode from Arch/Vim",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://msvalina.org/2019/09/role-of-tools-and-environment-in-behavior-and-why-i-switched-to-ubuntu-vscode-from-arch-vim.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "msvalina",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 4
+    },
+    {
+      "created_at": "2019-10-21T09:42:47.000Z",
+      "title": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+      "url": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+      "author": "mwanago",
+      "points": 1,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571650967,
+      "_tags": [
+        "story",
+        "author_mwanago",
+        "story_21310542"
+      ],
+      "objectID": "21310542",
+      "_highlightResult": {
+        "title": {
+          "value": "Understanding JavaScript Proxy. Preserving Backward Compatibility in a Library",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://wanago.io/2019/10/21/understanding-proxy-preserving-library-backward-compatibility/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mwanago",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 5
+    },
+    {
+      "created_at": "2019-10-21T09:19:39.000Z",
+      "title": "Show HN: Muljin – IT Department as a Service",
+      "url": "https://www.muljin.com/",
+      "author": "mswehli",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571649579,
+      "_tags": [
+        "story",
+        "author_mswehli",
+        "story_21310468",
+        "show_hn"
+      ],
+      "objectID": "21310468",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Muljin – IT Department as a Service",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.muljin.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mswehli",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 6
+    },
+    {
+      "created_at": "2019-10-21T09:45:38.000Z",
+      "title": "Node.js 12 Transitioned into LTS",
+      "url": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+      "author": "vhiairrassary",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651138,
+      "_tags": [
+        "story",
+        "author_vhiairrassary",
+        "story_21310554"
+      ],
+      "objectID": "21310554",
+      "_highlightResult": {
+        "title": {
+          "value": "Node.js 12 Transitioned into LTS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "vhiairrassary",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 7
+    },
+    {
+      "created_at": "2019-10-21T09:45:38.000Z",
+      "title": "Node.js 12 Transitioned into LTS",
+      "url": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+      "author": "vhiairrassary",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 0,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571651138,
+      "_tags": [
+        "story",
+        "author_vhiairrassary",
+        "story_21310554"
+      ],
+      "objectID": "21310554",
+      "_highlightResult": {
+        "title": {
+          "value": "Node.js 12 Transitioned into LTS",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://github.com/nodejs/node/releases/tag/v12.13.0",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "vhiairrassary",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 8
+    },
+    {
+      "created_at": "2019-10-21T09:19:39.000Z",
+      "title": "Show HN: Muljin – IT Department as a Service",
+      "url": "https://www.muljin.com/",
+      "author": "mswehli",
+      "points": 2,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 1,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1571649579,
+      "_tags": [
+        "story",
+        "author_mswehli",
+        "story_21310468",
+        "show_hn"
+      ],
+      "objectID": "21310468",
+      "_highlightResult": {
+        "title": {
+          "value": "Show HN: Muljin – IT Department as a Service",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "url": {
+          "value": "https://www.muljin.com/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "mswehli",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      },
+      "id": 9
+    }
+  ]
+}
